@@ -17,7 +17,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p>
-<img src=".gitlab/capa.png" alt="nlw-copa" />
+<img src=".github/capa.png" alt="nlw-copa" />
 </p>
 <br/>
 
@@ -33,13 +33,13 @@ O layout da aplicação está dispobível no Figma [link](<https://www.figma.com
 
 ## Web
 
-  <img alt="Frontend" src=".gitlab/web.png" width="100%">
+  <img alt="Frontend" src=".github/web.png" width="100%">
 
 ---
 
 ## Mobile
 
-  <img alt="Frontend" src=".gitlab/mobile.png" width="100%">
+  <img alt="Frontend" src=".github/mobile.png" width="100%">
 
 ---
 
@@ -86,7 +86,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 ```bash
 
 # Clone this repository
-$ git clone https://gitlab.com/natan_m_santos/nlw-copa-ignite.git
+$ git clone https://github.com/natan_m_santos/nlw-copa-ignite.git
 
 # Access the project folder cmd/terminal
 $ cd nlw-copa-ignite
